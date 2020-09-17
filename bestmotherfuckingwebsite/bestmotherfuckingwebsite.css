@@ -1,0 +1,97 @@
+h1
+{
+	margin-top: 25px
+}
+
+p, h1, h2, h3, ul, blockquote
+{
+	margin-left: 290px;
+}
+
+p, h1, h2, h3, ul, blockquote
+{
+	margin-right: 290px;
+}
+*
+{
+	color: #454545;
+}
+*
+{
+	font-family: Arial, serif
+}
+*
+{
+	line-height: 1.5
+}
+p, blockquote, ul
+{
+	font-size : 16px;
+	
+}
+h1, h2, h3
+{
+	font-weight: bold;
+}
+.petit1, .petit2, .petit3, .petit4, .petit5, .petit6
+{
+	font-size: 10px
+}
+a
+{
+	text-decoration: underline;
+	color: #0077aa
+}
+a:visited
+{
+	text-decoration: underline;
+	color: rgb(128,0,64);
+}
+
+.imageflottante
+{
+	float: left;
+}
+.WRONG
+{
+	text-decoration: underline;
+	color: red
+}
+
+.motherfuckingwebsites, .bettermotherfuckingwebsite
+{
+	color: rgb(128,0,64);
+}
+.bleulien
+{
+	color : rgb(0,0,255);
+}
+.violetlien
+{
+	color: rgb(64,0,128);
+}
+.dessous 
+{
+	clear: both;
+	font-size: 10px
+}
+.ligne
+{
+	font-family: "courier new", arial, serif;
+}
+.apos
+{
+	font-size: 50px
+}
+@keyframes changeColor
+{
+	from {color:#000000;} to {color: #FFFFFF;}
+}
+.rainbow
+{
+	animation: changeColor 10s infinite alternate; 
+}
+.logolien
+	{
+		align-content: center;
+	}
