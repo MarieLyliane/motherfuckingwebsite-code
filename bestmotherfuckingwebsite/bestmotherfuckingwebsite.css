@@ -85,11 +85,11 @@ a:visited
 }
 @keyframes changeColor
 {
-	from {color:#F3D217;} to {color: #9E0E40;}
+	from {color:#FF9900;} to {color: #33CC00;}
 }
 .rainbow
 {
-	animation: changeColor 10s infinite alternate; 
+	animation: changeColor 1s infinite alternate; 
 }
 .logolien
 	{
